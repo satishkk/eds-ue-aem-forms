@@ -1,5 +1,5 @@
 mountpoints:
   /:
-  url: https://<aem-author>/bin/franklin.delivery/sathishkk/eds-ue-aem-forms/main
+  url: https://author-p163659-e1757619.adobeaemcloud.com/bin/franklin.delivery/sathishkk/eds-ue-aem-forms/main
   type: "markup"
   suffix: ".html"
