@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+  url: https://<aem-author>/bin/franklin.delivery/sathishkk/eds-ue-aem-forms/main
+  type: "markup"
+  suffix: ".html"
